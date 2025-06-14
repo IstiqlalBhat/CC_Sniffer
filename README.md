@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-A production-grade network sniffer that detects credit-card numbers in live traffic. Designed for cybersecurity education, this project demonstrates:
+A network sniffer that detects credit-card numbers in live traffic. Designed for cybersecurity education, this project demonstrates:
 
 - Traffic capture with high throughput  
 - Regex-based pattern matching + Luhn checksum validation  
